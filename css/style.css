@@ -2173,17 +2173,10 @@ input.main-search-input:-ms-input-placeholder {
 
 }
 
-.back-icon-left {
-
-	margin: 0;
-
-}
 
 .back-icon-right {
 
-	margin: inherit;
-
-	left: inherit;
+	margin-left: 450px;
 
 }
 
@@ -3269,7 +3262,7 @@ li.price-del i {
 
 	content: "";
 
-	background-color: rgba(19,35,47,0.94);
+	background-color: rgba(19, 35, 47, 0.425);
 
 	left: 0;
 
