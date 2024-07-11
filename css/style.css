@@ -166,7 +166,7 @@ a:focus,
 
 a:hover{
 
-    color: #8fb569;
+    color: #0693d8;
 
     text-decoration: none;
 
@@ -462,7 +462,8 @@ label {
 
 .theme-overlay::before {
 
-    background: #1696e7 none repeat scroll 0 0;
+    background: 
+	#446c84 none repeat scroll 0 0;
 
     content: "";
 
@@ -496,7 +497,8 @@ label {
 
 	-moz-user-select: none;
 
-	background: #e12454;
+	background: 
+	#a24884;
 
 	border: medium none;
 
@@ -540,7 +542,8 @@ label {
 
 .btn:hover {
 
-	background: #8fb569;
+	background:
+#446c84;
 
 	color: #fff;
 
@@ -560,7 +563,7 @@ label {
 
 	padding-bottom: 22px;
 
-	background-color: rgb(225, 36, 84);
+	background-color: rgb(162,72,132);
 
 	box-shadow: 0px 8px 16px 0px rgba(225, 36, 84, 0.2);
 
@@ -568,7 +571,7 @@ label {
 
 .btn-icon-green {
 
-	background-color: rgb(143, 181, 105);
+	background-color:rgb(162,72,132);
 
 	box-shadow: 0px 8px 16px 0px rgba(143, 181, 105, 0.3);
 
@@ -578,7 +581,7 @@ label {
 
 .btn-icon:hover {
 
-	background-color: rgb(143, 181, 105);
+	background-color:rgb(68,108,132);
 
 	box-shadow: 0px 8px 16px 0px rgba(125, 178, 73, 0.2);
 
@@ -588,7 +591,7 @@ label {
 
 .btn-icon-green:hover {
 
-	background-color: rgb(225, 36, 84);
+	background-color:rgb(68,108,132);
 
 	box-shadow: 0px 8px 16px 0px rgba(225, 36, 84, 0.2);
 
@@ -670,7 +673,7 @@ label {
 
 .btn-icon-blue:hover {
 
-	background-color: rgb(225, 36, 84);
+	background-color:rgb(162,72,132);
 
 	box-shadow: 0px 8px 16px 0px rgba(225, 36, 84, 0.2);
 
@@ -706,7 +709,7 @@ label {
 
 .btn.gray-btn-border:hover {
 
-	background: #E12454;
+	background:#a24884;
 
 	color: #fff;
 
@@ -720,7 +723,8 @@ label {
 
 	border-radius: 30px;
 
-	background: #8fb569;
+	background:
+#446c84;
 
 	color: #fff;
 
@@ -728,7 +732,7 @@ label {
 
 .btn.green-bg-btn:hover {
 
-	background: #E12454;
+	background:#a24884;
 
 }
 
@@ -744,7 +748,7 @@ label {
 
 	border-radius: 50%;
 
-	background-color: rgb(143, 181, 105);
+	background-color:rgb(68,108,132);
 
 	box-shadow: 0px 8px 16px 0px rgba(125, 178, 73, 0.2);
 
@@ -760,7 +764,7 @@ label {
 
 .play-btn:hover {
 
-	background-color: rgb(225, 36, 84);
+	background-color:rgb(162,72,132);
 
 	box-shadow: 0px 8px 16px 0px rgba(225, 36, 84, 0.2);
 
@@ -818,9 +822,9 @@ label {
 
 .about-video-btn.white-video-btn:hover {
 
-	background: #e12454;
+	background:#a24884;
 
-	border: 2px solid #e12454;
+	border: 2px solid#a24884;
 
 	color: #fff;
 
@@ -840,7 +844,7 @@ label {
 
 #scrollUp {
 
-	background: #E12454;
+	background:#a24884;
 
 	height: 50px;
 
@@ -868,7 +872,8 @@ label {
 
 #scrollUp:hover {
 
-    background: #8FB569;
+    background:
+#446c84;
 
 }
 
@@ -993,7 +998,7 @@ label {
 
 .header__menu.header-menu-white ul li a:hover {
 
-	color: #E12454;
+	color:#a24884;
 
 }
 
@@ -1045,7 +1050,7 @@ label {
 
 	transition: all 0.3s ease-out 0s;
 
-	border-top: 5px solid #e12454;
+	border-top: 5px solid#a24884;
 
 	box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.05);
 
@@ -1093,7 +1098,7 @@ label {
 
 .header__menu.header-menu-white ul li ul.submenu li:hover > a {
 
-	color: #E12454;
+	color:#a24884;
 
 }
 
@@ -1291,7 +1296,7 @@ label {
 
 	display: block;
 
-	color: #E12454;
+	color:#a24884;
 
 }
 
@@ -1787,7 +1792,7 @@ input.main-search-input:-ms-input-placeholder {
 
 .slider-active button:hover{
 
-    background: #e12454;
+    background:#a24884;
 
 	color: #fff;
 
@@ -1835,7 +1840,7 @@ input.main-search-input:-ms-input-placeholder {
 
 .author-desination h6 {
 
-	color: #e12454;
+	color:#a24884;
 
 	text-transform: uppercase;
 
@@ -2109,7 +2114,8 @@ input.main-search-input:-ms-input-placeholder {
 
 .section-text-green h5 {
 
-	color: #8fb569;
+	color:
+#446c84;
 
 	font-weight: 400;
 
@@ -2117,7 +2123,7 @@ input.main-search-input:-ms-input-placeholder {
 
 .section-text-small h5 {
 
-	color: #e12454;
+	color:#a24884;
 
 	text-transform: uppercase;
 
@@ -2244,7 +2250,7 @@ input.main-search-input:-ms-input-placeholder {
 
 .service-box.service-box-2 .service-content-2 h3 a:hover {
 
-	color: #E12454;
+	color:#a24884;
 
 }
 
@@ -2282,7 +2288,7 @@ input.main-search-input:-ms-input-placeholder {
 
 .service-content-2 h3 a::before {
 
-	background: #E12454;
+	background:#a24884;
 
 	z-index: 9;
 
@@ -2366,7 +2372,7 @@ input.main-search-input:-ms-input-placeholder {
 
 .service-box-3  a.service-link:hover {
 
-	background: #e12454;
+	background:#a24884;
 
 	color: #fff;
 
@@ -2380,7 +2386,7 @@ input.main-search-input:-ms-input-placeholder {
 
 .service-box-2 .service-content-2 a.service-link:hover {
 
-	color: #e12454;
+	color:#a24884;
 
 }
 
@@ -2392,13 +2398,15 @@ input.main-search-input:-ms-input-placeholder {
 
 .service-box .service-content h3 a:hover {
 
-    color: #8fb569;
+    color:
+#446c84;
 
 }
 
 .service-box .service-link:hover {
 
-    color: #8fb569;
+    color:
+#446c84;
 
 }
 
@@ -2476,7 +2484,8 @@ input.main-search-input:-ms-input-placeholder {
 
 .ser-fea-list ul li i {
 
-	color: #8fb569;
+	color:
+#446c84;
 
 	margin-right: 5px;
 
@@ -2506,7 +2515,7 @@ input.main-search-input:-ms-input-placeholder {
 
 .download-area a:hover span {
 
-	color: #e12454;
+	color:#a24884;
 
 }
 
@@ -2600,7 +2609,7 @@ input.main-search-input:-ms-input-placeholder {
 
 .more-service-list ul li a:hover .more-service-title {
 
-	color: #e12454;
+	color:#a24884;
 
 }
 
@@ -2672,7 +2681,8 @@ input.main-search-input:-ms-input-placeholder {
 
 	font-size: 14px;
 
-	color: #8fb569;
+	color:
+#446c84;
 
 	top: 20px;
 
@@ -2770,7 +2780,7 @@ input.main-search-input:-ms-input-placeholder {
 
 .team-content h6 {
 
-	color: #e12454;
+	color:#a24884;
 
 	text-transform: uppercase;
 
@@ -2792,7 +2802,7 @@ input.main-search-input:-ms-input-placeholder {
 
 	border-radius: 50%;
 
-	background-color: rgb(143, 181, 105);
+	background-color:rgb(68,108,132);
 
 	box-shadow: 0px 8px 16px 0px rgba(143, 181, 105, 0.3);
 
@@ -2810,7 +2820,7 @@ input.main-search-input:-ms-input-placeholder {
 
 .team-link:hover {
 
-	background-color: rgb(225, 36, 84);
+	background-color:rgb(162,72,132);
 
 	box-shadow: 0px 8px 16px 0px rgba(225, 36, 84, 0.2);
 
@@ -2840,7 +2850,7 @@ input.main-search-input:-ms-input-placeholder {
 
 	letter-spacing: 2px;
 
-	color: #e12454;
+	color:#a24884;
 
 	padding: 11px 20px;
 
@@ -2934,7 +2944,8 @@ input.main-search-input:-ms-input-placeholder {
 
 .team-activation .slick-dots li.slick-active button {
 
-  background: #8fb569;
+  background:
+#446c84;
 
 }
 
@@ -2992,7 +3003,8 @@ input.main-search-input:-ms-input-placeholder {
 
 .single-satisfied h1 {
 
-	color: #8fb569;
+	color:
+#446c84;
 
 	float: left;
 
@@ -3088,7 +3100,7 @@ input.main-search-input:-ms-input-placeholder {
 
 	border-radius: 40px;
 
-	background: #e12454;
+	background:#a24884;
 
 	padding-left: 50px;
 
@@ -3114,7 +3126,7 @@ input.main-search-input:-ms-input-placeholder {
 
 .price-box-flat:hover .pricing-title h6 {
 
-	background: #e12454;
+	background:#a24884;
 
 	color:#ffff;
 
@@ -3122,7 +3134,8 @@ input.main-search-input:-ms-input-placeholder {
 
 .price-box-flat:hover .price-btn-2 a {
 
-	background: #8fb569;
+	background:
+#446c84;
 
 	color:#ffff;
 
@@ -3248,7 +3261,7 @@ li.price-del i {
 
 	padding-left: 54px;
 
-	background-color: rgb(225, 36, 84);
+	background-color:rgb(162,72,132);
 
 	box-shadow: 0px 8px 16px 0px rgba(225, 36, 84, 0.3);
 
@@ -3280,7 +3293,7 @@ li.price-del i {
 
 .news-tag {
 
-	color: #e12454;
+	color:#a24884;
 
 	font-weight: 500;
 
@@ -3298,7 +3311,7 @@ li.price-del i {
 
 .latest-news-content h3 a:hover {
 
-	color: #e12454;
+	color:#a24884;
 
 }
 
@@ -3370,13 +3383,15 @@ li.price-del i {
 
 .latest-news-box-2 .news-tag {
 
-	color: #8fb569;
+	color:
+#446c84;
 
 }
 
 .latest-news-box-2 .latest-news-content h3 a:hover {
 
-	color: #8fb569;
+	color:
+#446c84;
 
 }
 
@@ -3410,7 +3425,7 @@ li.price-del i {
 
 	font-size: 36px;
 
-	color: #e12454;
+	color:#a24884;
 
 	margin-right: 30px;
 
@@ -3578,7 +3593,8 @@ li.price-del i {
 
 .footer-menu ul li a:hover {
 
-	color: #8fb569;
+	color:
+#446c84;
 
 	text-decoration: underline;
 
@@ -3798,7 +3814,7 @@ li.price-del i {
 
 	font-weight: 500;
 
-	color: #e12454;
+	color:#a24884;
 
 }
 
@@ -3814,7 +3830,7 @@ li.price-del i {
 
 	font-size: 80px;
 
-	color: #e12454;
+	color:#a24884;
 
 	margin-top: 20px;
 
@@ -3898,7 +3914,7 @@ li.price-del i {
 
 .counter-box-white h6::before {
 
-	background: #E12454;
+	background:#a24884;
 
 	z-index: 9;
 
@@ -3938,7 +3954,7 @@ li.price-del i {
 
 	font-weight: 500;
 
-	color: #e12454;
+	color:#a24884;
 
 }
 
@@ -3996,13 +4012,15 @@ li.price-del i {
 
 	border-radius: 50%;
 
-	color: #8fb569;
+	color:
+#446c84;
 
 	margin-right: 20px;
 
 	float: left;
 
-	border: 2px solid #8fb569;
+	border: 2px solid
+#446c84;
 
 	font-size: 12px;
 
@@ -4012,7 +4030,8 @@ li.price-del i {
 
 .professinals-list li:hover i {
 
-	background: #8fb569;
+	background:
+#446c84;
 
 	color: #fff;
 
@@ -4030,7 +4049,7 @@ li.price-del i {
 
 	border-radius: 50%;
 
-	background-color: rgb(225, 36, 84);
+	background-color:rgb(162,72,132);
 
 	box-shadow: 0px 16px 32px 0px rgba(225, 36, 84, 0.4);
 
@@ -4054,7 +4073,7 @@ li.price-del i {
 
 .testi-quato-icon-green {
 
-	background-color: rgb(143, 181, 105);
+	background-color:rgb(68,108,132);
 
 	box-shadow: 0px 16px 32px 0px rgba(143, 181, 105, 0.4);
 
@@ -4064,7 +4083,7 @@ li.price-del i {
 
 .testi-box-2:hover .testi-quato-icon-green {
 
-	background-color: rgb(225, 36, 84);
+	background-color:rgb(162,72,132);
 
   	box-shadow: 0px 16px 32px 0px rgba(225, 36, 84, 0.4);
 
@@ -4092,7 +4111,8 @@ li.price-del i {
 
 	font-weight: 500;
 
-	color: #8fb569;
+	color:
+#446c84;
 
 	text-transform: uppercase;
 
@@ -4110,7 +4130,7 @@ li.price-del i {
 
 	width: 2px;
 
-	background: #e12454;
+	background:#a24884;
 
 	position: absolute;
 
@@ -4268,7 +4288,7 @@ li.price-del i {
 
 	width: 20px;
 
-	background: #e12454;
+	background:#a24884;
 
 	content: "";
 
@@ -4290,7 +4310,8 @@ li.price-del i {
 
 .analysis-area .nav-item:nth-child(2) a.nav-link::after {
 
-	background: #8fb569;
+	background:
+#446c84;
 
 }
 
@@ -4316,13 +4337,14 @@ li.price-del i {
 
 .analysis-area ul li.nav-item:nth-child(1) a.nav-link {
 
-	background: #e12454;
+	background:#a24884;
 
 }
 
 .analysis-area ul li.nav-item:nth-child(2) a.nav-link {
 
-	background: #8fb569;
+	background:
+#446c84;
 
 }
 
@@ -4572,7 +4594,8 @@ li.price-del i {
 
 	box-shadow: 0px 8px 16px 0px rgba(200, 183, 255, 0.2);
 
-	border-top: 6px solid #8fb569;
+	border-top: 6px solid
+#446c84;
 
 	padding-top: 41px;
 
@@ -4622,7 +4645,7 @@ li.price-del i {
 
 .doctor-detials-lan ul li a:hover {
 
-	background-color: rgb(143, 181, 105);
+	background-color:rgb(68,108,132);
 
 	box-shadow: 0px 8px 16px 0px rgba(143, 181, 105, 0.2);
 
@@ -4958,7 +4981,7 @@ li.price-del i {
 
 .author-desination-2 h6 {
 
-	color: #e12454;
+	color:#a24884;
 
 	text-transform: capitalize;
 
@@ -5122,7 +5145,7 @@ li.price-del i {
 
 	padding: 21px 30px;
 
-	border: 2px solid #e12454;
+	border: 2px solid#a24884;
 
 	text-decoration: none;
 
@@ -5172,7 +5195,7 @@ li.price-del i {
 
 	padding-bottom: 22px;
 
-	border: 2px solid #e12454;
+	border: 2px solid#a24884;
 
 	background: #fff;
 
@@ -5246,7 +5269,7 @@ li.price-del i {
 
 .news-meta span a:hover {
 
-	color: #e12454;
+	color:#a24884;
 
 }
 
@@ -5262,7 +5285,7 @@ li.price-del i {
 
       .news__caption h2 a:hover {
 
-		color: #e12454;
+		color:#a24884;
 
 	}
 
@@ -5328,7 +5351,7 @@ li.price-del i {
 
 .news__caption-2 h2 a:hover {
 
-  color: #e12454;
+  color:#a24884;
 
 }
 
@@ -5368,7 +5391,7 @@ li.price-del i {
 
 .news-meta span a {
 
-  color: #e12454;
+  color:#a24884;
 
   letter-spacing: 2px;
 
@@ -5426,7 +5449,7 @@ li.price-del i {
 
 .post-meta span a:hover {
 
-  color: #e12454;
+  color:#a24884;
 
 }
 
@@ -5434,7 +5457,7 @@ li.price-del i {
 
 .post-meta span i {
 
-	color: #e12454;
+	color:#a24884;
 
 	margin-right: 2px;
 
@@ -5516,7 +5539,7 @@ li.price-del i {
 
 .blog-title a:hover {
 
-  color: #e12454;
+  color:#a24884;
 
 }
 
@@ -5536,13 +5559,14 @@ li.price-del i {
 
 .read-more{
 
-	color: #e12454;
+	color:#a24884;
 
 }
 
 .read-more:hover {
 
-  color: #8fb569;
+  color:
+#446c84;
 
 }
 
@@ -5616,7 +5640,7 @@ li.price-del i {
 
 .postbox__gallery .slick-arrow:hover {
 
-  background: #e12454;
+  background:#a24884;
 
   color: #ffffff;
 
@@ -5666,7 +5690,7 @@ li.price-del i {
 
   line-height: 120px;
 
-  color: #e12454;
+  color:#a24884;
 
   transform: translateY(-50%);
 
@@ -5676,7 +5700,7 @@ li.price-del i {
 
 .video-btn:hover {
 
-  background: #e12454;
+  background:#a24884;
 
   color: #ffffff;
 
@@ -5782,7 +5806,8 @@ li.price-del i {
 
 	box-shadow: 0px 8px 16px 0px rgba(200, 183, 255, 0.2);
 
-	border-top: 4px solid #8fb569;
+	border-top: 4px solid
+#446c84;
 
 }
 
@@ -5844,7 +5869,7 @@ li.price-del i {
 
 .search-form button:hover {
 
-  background: #e12454;
+  background:#a24884;
 
 }
 
@@ -5932,7 +5957,8 @@ li.price-del i {
 
 	margin: 0 8px;
 
-	color: #8fb569;
+	color:
+#446c84;
 
 }
 
@@ -5940,7 +5966,7 @@ li.price-del i {
 
 .widget-social-icon a:hover {
 
-  color: #e12454;
+  color:#a24884;
 
 }
 
@@ -6024,7 +6050,7 @@ li.price-del i {
 
 .widget-posts-title a:hover {
 
-  color: #e12454;
+  color:#a24884;
 
 }
 
@@ -6078,7 +6104,7 @@ ul.cat li a {
 
 ul.cat li a:hover {
 
-  color: #e12454;
+  color:#a24884;
 
 }
 
@@ -6110,7 +6136,7 @@ ul.cat li a:hover {
 
 .social-profile a:hover {
 
-  background: #e12454;
+  background:#a24884;
 
 }
 
@@ -6178,7 +6204,7 @@ ul.cat li a:hover {
 
 .tag a:hover {
 
-  background: #e12454;
+  background:#a24884;
 
   color: #ffffff;
 
@@ -6244,9 +6270,9 @@ ul.cat li a:hover {
 
   color: #fff;
 
-  background: #e12454;
+  background:#a24884;
 
-  border-color: #e12454;
+  border-color:#a24884;
 
 }
 
@@ -6294,7 +6320,7 @@ ul.cat li a:hover {
 
 .blog-share-icon a:hover {
 
-  color: #e12454;
+  color:#a24884;
 
 }
 
@@ -6404,7 +6430,7 @@ ul.cat li a:hover {
 
 .author-icon a:hover {
 
-  color: #e12454;
+  color:#a24884;
 
 }
 
@@ -6556,7 +6582,7 @@ ul.cat li a:hover {
 
 .avatar-name span {
 
-  color: #e12454;
+  color:#a24884;
 
   font-size: 12px;
 
@@ -6610,7 +6636,7 @@ ul.cat li a:hover {
 
 .reply:hover {
 
-  color: #e12454;
+  color:#a24884;
 
 }
 
@@ -6772,7 +6798,7 @@ ul.cat li a:hover {
 
   right: 30px;
 
-  color: #e12454;
+  color:#a24884;
 
   top: 18px;
 
@@ -6854,7 +6880,7 @@ ul.cat li a:hover {
 
 .bakix-navigation span a:hover {
 
-  color: #e12454;
+  color:#a24884;
 
 }
 
@@ -6872,7 +6898,7 @@ ul.cat li a:hover {
 
 .bakix-navigation h4 a:hover {
 
-  color: #e12454;
+  color:#a24884;
 
 }
 
@@ -6932,7 +6958,7 @@ ul.cat li a:hover {
 
 .basic-pagination ul li a:hover ,.basic-pagination ul li.active a {
 
-	background: #e12454;
+	background:#a24884;
 
 	color: #ffffff;
 
@@ -6960,11 +6986,11 @@ ul.cat li a:hover {
 
 .basic-pagination-2 ul li a:hover,.basic-pagination-2 ul li.active a {
 
-	background: #e12454;
+	background:#a24884;
 
 	color: #ffffff;
 
-	border-color: #e12454;
+	border-color:#a24884;
 
 	box-shadow: 0px 8px 16px 0px rgba(254, 69, 54, 0.3);
 
@@ -6994,7 +7020,8 @@ ul.cat li a:hover {
 
 .contact i {
 
-	background: #8fb569;
+	background:
+#446c84;
 
 	font-size: 40px;
 
@@ -7237,7 +7264,7 @@ ul.cat li a:hover {
 
 .product-action a:hover {
 
-  background: #E12454;
+  background:#a24884;
 
   color: #ffffff;
 
@@ -7257,7 +7284,8 @@ ul.cat li a:hover {
 
 .pro-cat a {
 
-  color: #8fb569;
+  color:
+#446c84;
 
   font-size: 14px;
 
@@ -7289,7 +7317,7 @@ ul.cat li a:hover {
 
 .pro-title a:hover {
 
-  color: #E12454;
+  color:#a24884;
 
 }
 
@@ -7541,7 +7569,8 @@ ul.cat li a:hover {
 
   color: white;
 
-  background: #8fb569;
+  background:
+#446c84;
 
 }
 
@@ -7685,7 +7714,8 @@ ul.cat li a:hover {
 
 .details-price span {
 
-	color: #8fb569;
+	color:
+#446c84;
 
 	font-size: 20px;
 
@@ -7737,7 +7767,8 @@ ul.cat li a:hover {
 
 .product-cat a:hover {
 
-  color: #8fb569;
+  color:
+#446c84;
 
 }
 
@@ -7783,7 +7814,8 @@ ul.cat li a:hover {
 
 .product-social a:hover {
 
-  background: #8fb569;
+  background:
+#446c84;
 
   color: #ffffff;
 
@@ -7829,7 +7861,8 @@ ul.cat li a:hover {
 
 .action-btn {
 
-	background: #8fb569;
+	background:
+#446c84;
 
 	padding: 20px 25px;
 
@@ -7847,7 +7880,7 @@ ul.cat li a:hover {
 
 .action-btn:hover {
 
-  background: #e12454;
+  background:#a24884;
 
   color: #ffffff;
 
@@ -7985,7 +8018,8 @@ ul.cat li a:hover {
 
   font-size: 100px;
 
-  color: #8fb569;
+  color:
+#446c84;
 
   margin-bottom: 30px;
 
@@ -8015,9 +8049,11 @@ ul.cat li a:hover {
 
 .shop-cat a:hover {
 
-  background: #8fb569;
+  background:
+#446c84;
 
-  border-color: #8fb569;
+  border-color:
+#446c84;
 
 }
 
@@ -8111,7 +8147,7 @@ ul.cat li a:hover {
 
   content: "";
 
-  background: #e12454 ;
+  background:#a24884 ;
 
   transition: .3s;
 
@@ -8181,7 +8217,7 @@ ul.cat li a:hover {
 
 .table-content table td.product-name a:hover {
 
-  color: #e12454;
+  color:#a24884;
 
 }
 
@@ -8411,7 +8447,7 @@ td.product-thumbnail img {
 
 	background-color: #fff1f0;
 
-	border-top: 3px solid #e12454;
+	border-top: 3px solid#a24884;
 
 	font-size: 14px;
 
@@ -8463,7 +8499,7 @@ td.product-thumbnail img {
 
 .coupon-accordion span:hover, p.lost-password a:hover {
 
-  color: #e12454;
+  color:#a24884;
 
 }
 
@@ -8539,7 +8575,7 @@ td.product-thumbnail img {
 
 .coupon-info p.form-row input[type="submit"]:hover, p.checkout-coupon input[type="submit"]:hover {
 
-  background: #e12454 none repeat scroll 0 0;
+  background:#a24884 none repeat scroll 0 0;
 
 }
 
@@ -9049,7 +9085,7 @@ p.checkout-coupon input[type="text"] {
 
 .your-order-table table tr.order-total td span {
 
-  color: #e12454;
+  color:#a24884;
 
   font-size: 18px;
 
@@ -9501,7 +9537,7 @@ p.checkout-coupon input[type="text"] {
 
 	position: relative;
 
-	color: #e12454;
+	color:#a24884;
 
 }
 
@@ -9519,7 +9555,7 @@ p.checkout-coupon input[type="text"] {
 
 	left: 100%;
 
-	background: #e12454;
+	background:#a24884;
 
 	-webkit-transition: all 0.3s ease;
 
@@ -9553,7 +9589,7 @@ p.checkout-coupon input[type="text"] {
 
 .portfolio-image::before {
 
-	background: #e12454;
+	background:#a24884;
 
 	content: "";
 
@@ -9769,7 +9805,7 @@ p.checkout-coupon input[type="text"] {
 
   border-radius: 100%;
 
-  background: #e12454;
+  background:#a24884;
 
   -webkit-animation: preloader 1.3s linear infinite;
 
@@ -9847,7 +9883,7 @@ p.checkout-coupon input[type="text"] {
 
 .header-info4 span i {
 
-	color: #e12454;
+	color:#a24884;
 
 }
 
@@ -9895,7 +9931,7 @@ p.checkout-coupon input[type="text"] {
 
 .top4-social ul li a:hover i {
 
-	color: #e12454;
+	color:#a24884;
 
 	transition: .4s;
 
@@ -9903,7 +9939,7 @@ p.checkout-coupon input[type="text"] {
 
 .top4-menu ul li a.need-help {
 
-	color: #e12454;
+	color:#a24884;
 
 	text-decoration: underline;
 
@@ -9911,7 +9947,7 @@ p.checkout-coupon input[type="text"] {
 
 .top4-menu ul li a:hover {
 
-	color: #e12454;
+	color:#a24884;
 
 }
 
@@ -9925,7 +9961,7 @@ p.checkout-coupon input[type="text"] {
 
 .header__menu ul li ul.submenu li a:hover {
 
-	color: #e12454;
+	color:#a24884;
 
 }
 
@@ -10141,7 +10177,8 @@ p.checkout-coupon input[type="text"] {
 
 	color: #fff;
 
-	background: #8fb569;
+	background:
+#446c84;
 
 	height: 50px;
 
@@ -10165,7 +10202,7 @@ p.checkout-coupon input[type="text"] {
 
 .h4service-active .slick-arrow:hover {
 
-	background: #e12454;
+	background:#a24884;
 
 }
 
@@ -10219,7 +10256,8 @@ p.checkout-coupon input[type="text"] {
 
 .h4service-active .slick-dots li.slick-active button {
 
-	background: #8fb569;
+	background:
+#446c84;
 
 }
 
@@ -10269,13 +10307,14 @@ p.checkout-coupon input[type="text"] {
 
 .team-box:hover .h4team-thumb>img {
 
-	border-color: #8fb569;
+	border-color:
+#446c84;
 
 }
 
 .h4team-social ul li a:hover {
 
-	color: #e12454;
+	color:#a24884;
 
 }
 
@@ -10291,7 +10330,7 @@ p.checkout-coupon input[type="text"] {
 
 	border-radius: 50%;
 
-	background-color: #e12454;
+	background-color:#a24884;
 
 	box-shadow: none;
 
@@ -10395,7 +10434,7 @@ p.checkout-coupon input[type="text"] {
 
 	font-size: 24px;
 
-	color: #e12454;
+	color:#a24884;
 
 }
 
@@ -10487,7 +10526,7 @@ p.checkout-coupon input[type="text"] {
 
 	text-align: center;
 
-	background: #e12454;
+	background:#a24884;
 
 	line-height: 45px;
 
@@ -10573,7 +10612,7 @@ p.checkout-coupon input[type="text"] {
 
 .h4gallery-active .slick-arrow:hover {
 
-	background: #e12454;
+	background:#a24884;
 
 }
 
@@ -10735,7 +10774,7 @@ p.checkout-coupon input[type="text"] {
 
 	width: 110px;
 
-	background: #e12454;
+	background:#a24884;
 
 	text-align: center;
 
@@ -10866,7 +10905,7 @@ p.checkout-coupon input[type="text"] {
 
 .btn-icon-gray:hover {
 
-	background: #e12454;
+	background:#a24884;
 
 	box-shadow: 0px 8px 16px 0px rgba(225, 36, 84, 0.2);
 
@@ -10902,7 +10941,8 @@ p.checkout-coupon input[type="text"] {
 
 	font-size: 22px;
 
-	color: #8fb569;
+	color:
+#446c84;
 
 	overflow: hidden;
 
@@ -10934,7 +10974,8 @@ p.checkout-coupon input[type="text"] {
 
 .h4events-list ul li>span.close-days {
 
-	color: #8fb569;
+	color:
+#446c84;
 
 }
 
@@ -11052,7 +11093,7 @@ p.checkout-coupon input[type="text"] {
 
 .h5services-content>a:hover {
 
-	color: #e12454;
+	color:#a24884;
 
 }
 
@@ -11238,7 +11279,8 @@ p.checkout-coupon input[type="text"] {
 
 .routine__table .table tbody td.active-doctor {
 
-	background: #8fb569;
+	background:
+#446c84;
 
 }
 
@@ -11338,7 +11380,8 @@ p.checkout-coupon input[type="text"] {
 
 .h5gallery-content>a>i:hover {
 
-	color: #8fb569;
+	color:
+#446c84;
 
 }
 
@@ -11360,7 +11403,7 @@ p.checkout-coupon input[type="text"] {
 
 .h5gallery-content>span>a:hover {
 
-	color: #e12454;
+	color:#a24884;
 
 }
 
@@ -11400,7 +11443,7 @@ p.checkout-coupon input[type="text"] {
 
 .gallery-filter>button.active {
 
-	background: #e12454;
+	background:#a24884;
 
 	border: 2px solid transparent;
 
@@ -11454,7 +11497,7 @@ p.checkout-coupon input[type="text"] {
 
 .h5medical-tab-menu>nav>.nav a.active {
 
-	background: #e12454;
+	background:#a24884;
 
 	color: #fff;
 
@@ -11500,7 +11543,7 @@ p.checkout-coupon input[type="text"] {
 
 	height: 5px;
 
-	background: #e12454;
+	background:#a24884;
 
 	bottom: 0;
 
@@ -11560,7 +11603,8 @@ p.checkout-coupon input[type="text"] {
 
 	font-size: 40px;
 
-	color: #8fb569;
+	color:
+#446c84;
 
 	margin-bottom: 25px;
 
@@ -11572,7 +11616,7 @@ p.checkout-coupon input[type="text"] {
 
 	font-weight: 600;
 
-	color: #e12454;
+	color:#a24884;
 
 	font-family: "Poppins", sans-serif;
 
