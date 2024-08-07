@@ -11687,4 +11687,8 @@ p.checkout-coupon input[type="text"] {
 	  animation-iteration-count: 2;
 	  animation-timing-function:linear;
 }
- 
+
+.facts{
+	animation:FadeInDown;
+	animation-duration: 5s;
+}
