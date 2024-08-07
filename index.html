@@ -25,7 +25,57 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
 </head>
+<style>
+    .stats-container {
+            display: grid;  
+            max-width: 100%; 
+            grid-template-rows: auto;
+            grid-template-columns: 1fr 1fr 1fr;
+            place-content: center;    
+            place-items: center;
+            align-items: center;
+            justify-items: center;
+            align-content: center;
+            background-color: #ffff;
+            padding: 20px;
+        
+            min-height: 250px;
+            margin:100px 0px;
+            border:1px solid #eee;
+            border-left: none;
+            border-right: none;
+            
+        }
+        .stat-item {
+            text-align: center;
+            padding: 0 15px;
+            height: 100px;  
 
+        }
+        .stat-number {
+            font-size: 3em;
+            font-weight: bold;
+            margin-bottom: 5px;
+            color: rgb(162,72,132);
+            
+            /* padding-top: 50px; */
+        }
+        .stat-label {
+            color: #666;
+            font-size: 0.9em;
+            font-weight: bold;
+            
+        }
+        @media (max-width: 699px) {
+            .stats-container {
+                grid-template-columns: 1fr;
+            }
+            .stat-item{
+                height: 200px;  
+            }
+            
+        }
+</style>
 <body>
 
     <!-- header begin -->
@@ -169,12 +219,12 @@
         <section class="servcies-area gray-bg pt-115 pb-90">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+                    <div class="col-xl-10 offset-xl-1 col-lg-8 offset-lg-1">
                         <div class="section-title text-center pos-rel mb-75">
                             <div class="section-icon">
                                 <img class="section-back-icon" src="img/section/section-back-icon.png" alt="">
                             </div>
-                            <div class="section-text pos-rel">
+                            <div class="section-text pos-rel mt-25">
                                 <h5>Departments</h5>
                                 <h1> We manage your Healthcare</h1>
                             </div>
@@ -186,8 +236,8 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-6">
-                        <div class="service-box text-center mb-30" data-aos="fade-right">
+                    <div class="col-xl-6 col-lg-6 ">
+                        <div class="service-box text-center mb-30" data-aos="fade-right" style="height: 92%;">
                             <div class="service-thumb" style="height: 10%; width: 15%; margin-left:44%;">
                                 <img src="img/services/eye.png" alt="">
                             </div>
@@ -200,7 +250,7 @@
                         </div>
                     </div>
                     
-                    <div class="col-6">
+                    <div  class="col-xl-6 col-lg-6 ">
                         <div class="service-box text-center mb-30"data-aos="fade-left">
                             <div class="service-thumb" style="height: 10%; width: 15%; margin-left:45%;">
                                 <img src="img/services/dental-care.png" alt="">
@@ -212,7 +262,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-6">
+                    <div  class="col-xl-6 col-lg-6 ">
                         <div class="service-box text-center mb-30"data-aos="fade-right">
                             <div class="service-thumb" style="height: 10%; width: 15%; margin-left:45%;">
                                 <img src="img/services/medicine.png" alt="">
@@ -225,7 +275,7 @@
                         </div>
                     </div>
                     
-                    <div class="col-6">
+                    <div  class="col-xl-6 col-lg-6 ">
                         <div class="service-box text-center mb-30"data-aos="fade-left">
                             <div class="service-thumb" style="height: 10%; width: 15%; margin-left:45%;">
                                 <img src="img/services/shared-vision.png" alt="">
@@ -265,6 +315,25 @@
             </div>
         </section>
         <!-- services-area end -->
+
+       <section>
+        <div class="row stats-container">
+            <div class="col-4 stat-item">
+                <div class="stat-number">10+</div>
+                <div class="stat-label">Years of Experience</div>
+            </div>
+            <div class="col-4 stat-item">
+                <div class="stat-number">1000+</div>
+                <div class="stat-label">Patients Treated</div>
+            </div>
+            <div class="col-4 stat-item">
+                <div class="stat-number">6+</div>
+                <div class="stat-label">Expert Faculty</div>
+            </div>
+        </div>
+       </section>
+
+
         <!-- team-area start -->
         <section class="team-area pt-115 pb-55">
             <div class="container">
