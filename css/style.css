@@ -11688,3 +11688,8 @@ p.checkout-coupon input[type="text"] {
 	  animation-timing-function:linear;
 }
  
+@media screen and (max-width:993px) {
+	.fs h1{
+		font-size: 10px;
+	}
+}
